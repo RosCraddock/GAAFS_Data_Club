@@ -25,6 +25,8 @@ Instructions for using this repository is as follows:
 Please add any useful resources below.
 
 ## R and R Studio
+**RatR(D)SVS** Open Textbook by Dr. Jill Mackay: R Textbook - https://jillymackay.github.io/RatRDSVS/index.html
+
 
 ## GitHub
 
