@@ -30,8 +30,10 @@ Please add any useful resources below.
 
 ## GitHub
 
-**Hello World**: Exercise to learn GitHub's pull request workflow (& why use branches aand/or forks)
+**Hello World**: Exercise to learn GitHub's pull request workflow (& why use branches aand/or forks) - 
 https://docs.github.com/en/get-started/start-your-journey/hello-world
+
+**GitHub Glossary** - https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
 ## Python and other Languages
 
