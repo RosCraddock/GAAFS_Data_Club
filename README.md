@@ -25,8 +25,15 @@ Instructions for using this repository is as follows:
 Please add any useful resources below.
 
 ## R and R Studio
+**RatR(D)SVS** Open Textbook by Dr. Jill Mackay: R Textbook - https://jillymackay.github.io/RatRDSVS/index.html
+
 
 ## GitHub
+
+**Hello World**: Exercise to learn GitHub's pull request workflow (& why use branches aand/or forks) - 
+https://docs.github.com/en/get-started/start-your-journey/hello-world
+
+**GitHub Glossary** - https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
 ## Python and other Languages
 
